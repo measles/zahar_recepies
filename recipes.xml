@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gourmetDoc>
+<gourmetDoc>
+	<recipe id="2">
+		<title>Белы агеньчык</title>
+		<category>Sauce</category>
+		<source>Галава Андрэя Захарэвіча</source>
+		<rating>4/5 stars</rating>
+		<preptime>3 days</preptime>
+		<cooktime>1/2 hour</cooktime>
+		<ingredient-list>
+			<ingredient>
+				<amount>900</amount>
+				<unit>g</unit>
+				<item>смятана</item>
+				<key>смятана</key>
+			</ingredient>
+			<ingredient>
+				<amount>90-100</amount>
+				<unit>g</unit>
+				<item>часнок</item>
+				<key>часнок</key>
+			</ingredient>
+			<ingredient>
+				<amount>2-3</amount>
+				<unit>Tbs</unit>
+				<item>алей</item>
+				<key>алей</key>
+			</ingredient>
+			<ingredient>
+				<amount>4-5</amount>
+				<unit>Tbs</unit>
+				<item>соевы соус</item>
+				<key>соевы соус</key>
+			</ingredient>
+			<ingredient>
+				<item>зеляніна</item>
+				<key>зеляніна</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Узяць смятану, часнок, алей (2-3 сталовыя лыжкі), крыху зеляніны і 4-5 сталовых лыжак соевага соусу. Усе інгрыдыенты закласці ў блендэр і давесці да стану аднароднай масы.
+
+Атрыманую масу разліць па ёмістасцях са шчыльнымі покрыўкамі і паставіць ў халадзільнік.
+
+Праз два-тры дні, калі водар часнаку раўнамерна прапітае масу соус можна ўжываць у ежу.</instructions>
+	</recipe>
+	<recipe id="3">
+		<title>Манты</title>
+		<category>Main Course</category>
+		<cuisine>Kyrgyzian</cuisine>
+		<source>Нэля Ібрагімава</source>
+		<rating>5/5 stars</rating>
+		<preptime>1 1/2 hours</preptime>
+		<cooktime>50 minutes</cooktime>
+		<yields>1 мантышніца</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>500</amount>
+				<unit>g</unit>
+				<item>мука</item>
+				<key>мука</key>
+			</ingredient>
+			<ingredient>
+				<amount>500</amount>
+				<unit>g</unit>
+				<item>мяса</item>
+				<key>мяса</key>
+			</ingredient>
+			<ingredient>
+				<amount>600</amount>
+				<unit>g</unit>
+				<item>цыбуля</item>
+				<key>цыбуля</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Пачынаць трэба з цеста.
+
+Замешваецца цеста (не надта крутое) на 500 грамаў мукі 1 шклянка вады (250 мл) і соль ½ сталовай лыжкі. Пасля замесу цеста трэба змазаць алеем і пакінуць пакуль не будзе гатовы фарш. 
+
+&amp;lt;u&amp;gt;&amp;lt;b&amp;gt;УВАГА:&amp;lt;/b&amp;gt;&amp;lt;/u&amp;gt;&amp;lt;b&amp;gt; &amp;lt;/b&amp;gt;Гэта не пельмені, цеста ні ў якім разе нельга ахалоджваць. Чакаць свайго часу цеста мусіць пры звычайнай пакаёвай тэмпературы.
+
+Фарш лепш за ўсё атрымліваць пакрышыўшы мяса на дробныя кубікі. Але можа быць ужыты і звычайны фарш. Але пажадана, каб мясарубка была выстаўленая на максімальна вялікія кавалкі.
+
+Мяса можа браць свіное, курынае ці бараніну. Можна дадаваць тлуст, каб манты былі сочныя.
+
+Цыбуля крышыцца не надта вялікімі кавалкамі і дадаецца ў фарш. Апроч яе дадаецца соль і перац на ўласны густ.
+
+Вада ў ніжняй частцы мантышніцы ставіцца на фаерку калі вы пачынаеце ляпіць манты. Манты не павінны чакаць пакуль вада закіпіць!
+
+Лісты змазваюцца алеем і вылепленыя манты раскладаюцца на іх у адзін слой.
+
+Цеста раскатваецца, у сярэдзіну закаладецца фарш, цеста акуратна злепліваецца. Абавязкова шчыльна, не павінна быць адтулін і дзірак. Маты макаюцца ніжняй часткай у муку і выкладаюцца ў лісты.
+
+Манты больш вялікія, чым пельмені, звычайна разы ў 2-3.
+
+Калі вада закіпіць, агонь убаўляюць да малога полымя і на мантышніцу ставяць лісты з мантамі у верхняй частцы мантышніцы. Гатуюцца 45-50 хвілін.</instructions>
+	</recipe>
+	<recipe id="1">
+		<title>Памаранчавая восень</title>
+		<category>Salad</category>
+		<source>Галава Андрэя Захарэвіча</source>
+		<rating>4/5 stars</rating>
+		<preptime>1 minute</preptime>
+		<cooktime>15 minutes</cooktime>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<item>апельсін</item>
+				<key>апельсін</key>
+			</ingredient>
+			<ingredient>
+				<amount>1/2</amount>
+				<item>яблык гатунку &quot;Рэкорд&quot;</item>
+				<key>яблык гатунку &quot;Рэкорд&quot;</key>
+			</ingredient>
+			<ingredient>
+				<amount>200-250</amount>
+				<unit>g</unit>
+				<item>корань салеры</item>
+				<key>корань салеры</key>
+			</ingredient>
+			<ingredient>
+				<item>соевы соус</item>
+				<key>соевы соус</key>
+			</ingredient>
+			<ingredient>
+				<item>алей</item>
+				<key>алей</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<item>цыбуліна крыху драбней за сярэднюю</item>
+				<key>цыбуліна крыху драбней за сярэднюю</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Пачысціць цыбуліну і нарэзаць яе максімальна дробнымі кавалкамі. 
+
+Ачысціць апельсін (які мусіць быць салодкім), разабраць на долькі і парэзаць іх лустачкамі таўшчынёй 3-5 мм.
+
+Яблык ачысціць ад скуры, выняць сярэдзіну. Узяць палову яблыка, нарэзаць долькамі і долькі пакрышыць лустачкамі таўшчынёй 2-3 мм.
+
+Корань салеры пасекчы драбнюткімі кубікамі ці натаркаваць на буйной тарцы. Можна дзесці ¼-⅕ пасекчы для фактуры, астатняе натаркаваць.
+
+Перамяшаць, дадаць алей (лепш аліўкавы, але і рапсавы ці сланечнікавы могуць быць ужытыя) соль і спецыі на ўласны густ.</instructions>
+	</recipe>
+</gourmetDoc>
