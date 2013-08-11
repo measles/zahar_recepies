@@ -3,7 +3,7 @@ Cooking Time: 1/2 hour
 Preparation Time: 3 days
 Category: Sauce
 Rating: 4/5 stars
-Source: Галава Андрэя Захарэвіча
+Source: Андрэй Захарэвіч
 
 ---
 Ingredients
@@ -96,7 +96,7 @@ Cooking Time: 15 minutes
 Preparation Time: 1 minute
 Category: Salad
 Rating: 4/5 stars
-Source: Галава Андрэя Захарэвіча
+Source: Андрэй Захарэвіч
 
 ---
 Ingredients
@@ -138,6 +138,7 @@ Preparation Time: 6 hours
 Category: Dessert
 Cuisine: Italian
 Rating: 4/5 stars
+Source: Алена Захарэвіч
 
 ---
 Ingredients

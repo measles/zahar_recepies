@@ -4,7 +4,7 @@
 	<recipe id="2">
 		<title>Белы агеньчык</title>
 		<category>Sauce</category>
-		<source>Галава Андрэя Захарэвіча</source>
+		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>3 days</preptime>
 		<cooktime>1/2 hour</cooktime>
@@ -98,7 +98,7 @@
 	<recipe id="1">
 		<title>Памаранчавая восень</title>
 		<category>Salad</category>
-		<source>Галава Андрэя Захарэвіча</source>
+		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>1 minute</preptime>
 		<cooktime>15 minutes</cooktime>
@@ -147,6 +147,7 @@
 		<title>Тырамісу</title>
 		<category>Dessert</category>
 		<cuisine>Italian</cuisine>
+		<source>Алена Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>6 hours</preptime>
 		<cooktime>1 hour</cooktime>
