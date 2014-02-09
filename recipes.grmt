@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE gourmetDoc>
 <gourmetDoc>
-	<recipe id="2">
+	<recipe id="1">
 		<title>Белы агеньчык</title>
 		<category>Sauce</category>
 		<source>Андрэй Захарэвіч</source>
@@ -44,7 +44,7 @@
 
 Праз два-тры дні, калі водар часнаку раўнамерна прапітае масу соус можна ўжываць у ежу.</instructions>
 	</recipe>
-	<recipe id="3">
+	<recipe id="2">
 		<title>Манты</title>
 		<category>Main Course</category>
 		<cuisine>Kyrgyzian</cuisine>
@@ -95,7 +95,58 @@
 
 Калі вада закіпіць, агонь убаўляюць да малога полымя і на мантышніцу ставяць лісты з мантамі у верхняй частцы мантышніцы. Гатуюцца 45-50 хвілін.</instructions>
 	</recipe>
-	<recipe id="1">
+	<recipe id="5">
+		<title>Марозная вясёлка</title>
+		<category>Salad</category>
+		<source>Андрэй Захарэвіч</source>
+		<rating>4/5 stars</rating>
+		<cooktime>20 minutes</cooktime>
+		<yields>4 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>330</amount>
+				<unit>g</unit>
+				<item>Чырвонакачанная капуста</item>
+				<key>Чырвонакачанная капуста</key>
+			</ingredient>
+			<ingredient>
+				<amount>135</amount>
+				<unit>g</unit>
+				<item>Парэй (цыбуля)</item>
+				<key>Парэй (цыбуля)</key>
+			</ingredient>
+			<ingredient>
+				<amount>315</amount>
+				<unit>g</unit>
+				<item>Таматы</item>
+				<key>Таматы</key>
+			</ingredient>
+			<ingredient>
+				<amount>60</amount>
+				<unit>g</unit>
+				<item>Корань салеры</item>
+				<key>Корань салеры</key>
+			</ingredient>
+			<ingredient>
+				<amount>320</amount>
+				<unit>g</unit>
+				<item>Смятана</item>
+				<key>Смятана</key>
+			</ingredient>
+			<ingredient>
+				<amount>30</amount>
+				<unit>g</unit>
+				<item>Нерафініраваны сланечнікавы алей</item>
+				<key>Нерафініраваны сланечнікавы алей</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Нашаткаваць капусту, нарезаць таматы не надта вялікімі кавалкамі. Дадаць дробна накрышаны парэй. Натаркаваць корань салеры на буйной тарцы. 
+
+Заправіць смятанай і алеем. Дадаць соль і спецыі на ўластны густ. Раім дадаць крыху карыцы. Добра вымяшаць і можна есці.
+
+Смачна есці!</instructions>
+	</recipe>
+	<recipe id="3">
 		<title>Памаранчавая восень</title>
 		<category>Salad</category>
 		<source>Андрэй Захарэвіч</source>
