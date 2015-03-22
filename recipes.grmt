@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE gourmetDoc>
 <gourmetDoc>
-	<recipe id="1">
+	<recipe id="7">
 		<title>Белы агеньчык</title>
 		<category>Sauce</category>
 		<source>Андрэй Захарэвіч</source>
@@ -44,7 +44,7 @@
 
 Праз два-тры дні, калі водар часнаку раўнамерна прапітае масу соус можна ўжываць у ежу.</instructions>
 	</recipe>
-	<recipe id="2">
+	<recipe id="8">
 		<title>Манты</title>
 		<category>Main Course</category>
 		<cuisine>Kyrgyzian</cuisine>
@@ -95,7 +95,7 @@
 
 Калі вада закіпіць, агонь убаўляюць да малога полымя і на мантышніцу ставяць лісты з мантамі у верхняй частцы мантышніцы. Гатуюцца 45-50 хвілін.</instructions>
 	</recipe>
-	<recipe id="5">
+	<recipe id="9">
 		<title>Марозная вясёлка</title>
 		<category>Salad</category>
 		<source>Андрэй Захарэвіч</source>
@@ -146,7 +146,7 @@
 
 Смачна есці!</instructions>
 	</recipe>
-	<recipe id="3">
+	<recipe id="10">
 		<title>Памаранчавая восень</title>
 		<category>Salad</category>
 		<source>Андрэй Захарэвіч</source>
@@ -194,7 +194,48 @@
 
 Перамяшаць, дадаць алей (лепш аліўкавы, але і рапсавы ці сланечнікавы могуць быць ужытыя) соль і спецыі на ўласны густ.</instructions>
 	</recipe>
-	<recipe id="4">
+	<recipe id="6">
+		<title>Суп смятанны з цвёрдым сырам</title>
+		<category>Soup</category>
+		<cuisine>Vegetarian</cuisine>
+		<source>©В. Піотровякова &quot;Вегетарыянскія стравы&quot;, &quot;Полымя&quot;, Мінск, 1992</source>
+		<rating>5/5 stars</rating>
+		<preptime>10 minutes</preptime>
+		<cooktime>15 minutes</cooktime>
+		<yields>4 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>3</amount>
+				<unit>c</unit>
+				<item>Малако</item>
+				<key>Малако</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<unit>c</unit>
+				<item>Смятана</item>
+				<key>Смятана</key>
+			</ingredient>
+			<ingredient>
+				<item>Соль</item>
+				<key>Соль</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<unit>tsp</unit>
+				<item>Кмін</item>
+				<key>Кмін</key>
+			</ingredient>
+			<ingredient>
+				<amount>100</amount>
+				<unit>g</unit>
+				<item>Пікантны цвёрды сыр</item>
+				<key>Пікантны цвёрды сыр</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Кмін сцерці у ступцы ці змалоць. Малако ускіпяціць з кмінам, пасаліць. Суп прыправіць мукою, разведзенай у смятане, ускіпяціць. Пасыпаць таркаваным сырам. Падаваць з бульбяным пюрэ ці з асобна прыгатаванымі клёцкамі.</instructions>
+	</recipe>
+	<recipe id="11">
 		<title>Тырамісу</title>
 		<category>Dessert</category>
 		<cuisine>Italian</cuisine>
