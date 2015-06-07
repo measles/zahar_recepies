@@ -44,6 +44,57 @@
 
 Праз два-тры дні, калі водар часнаку раўнамерна прапітае масу соус можна ўжываць у ежу.</instructions>
 	</recipe>
+	<recipe id="13">
+		<title>Летні суп з гародніны на ражанцы</title>
+		<category>Soup</category>
+		<cuisine>Vegetarian</cuisine>
+		<source>Андрэй Захарэвіч</source>
+		<rating>4/5 stars</rating>
+		<preptime>10 minutes</preptime>
+		<yields>1 cups</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>4</amount>
+				<item>памідоры &quot;Чэры&quot;</item>
+				<key>памідоры &quot;Чэры&quot;</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<item>агуркі невялікія</item>
+				<key>агуркі невялікія</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<item>зубок часныку</item>
+				<key>часнок</key>
+			</ingredient>
+			<ingredient>
+				<item>соль</item>
+				<key>соль</key>
+			</ingredient>
+			<ingredient>
+				<item>перац</item>
+				<key>перац</key>
+			</ingredient>
+			<ingredient>
+				<amount>180</amount>
+				<unit>ml</unit>
+				<item>ражанка</item>
+				<key>ражанка</key>
+			</ingredient>
+			<ingredient>
+				<item>кроп</item>
+				<key>кроп</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Часнок дробна скрышыць. Памідоры &quot;Чэры&quot; парэзаць на чвэрці. Агуркі нарэзаць на чвэрцькольцы. Кроп дробна скрышыць.
+
+Складнікі засыпаць у місу, пасаліць, папярчыць. Заліўшы ражанкай добра вымешаць.
+
+Можа па-жаданні дадаць чайную лыжку алею. У такім выпадку альбо алей дадаць раней за ражанку, альбо потым яшчэ раз добра вымяшаць.
+
+Смачна есці!</instructions>
+	</recipe>
 	<recipe id="8">
 		<title>Манты</title>
 		<category>Main Course</category>
