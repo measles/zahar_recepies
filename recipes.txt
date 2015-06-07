@@ -1,17 +1,17 @@
 Title: Белы агеньчык
 Cooking Time: 1/2 hour
 Preparation Time: 3 days
-Category: Sauce
+Category: Соўс
 Rating: 4/5 stars
 Source: Андрэй Захарэвіч
 
 ---
 Ingredients
 ---
-900 g смятана
-90-100 g часнок
-2-3 Tbs алей
-4-5 Tbs соевы соус
+900 г смятана
+90-100 г часнок
+2-3 Ст. лыжкі алей
+4-5 Ст. лыжак соевы соус
  зеляніна
 
 ---
@@ -31,10 +31,10 @@ Instructions
 ўжываць у ежу.
 
 Title: Летні суп з гародніны на ражанцы
-Yield: 1 cups
+Yield: 1 міска
 Preparation Time: 10 minutes
-Category: Soup
-Cuisine: Vegetarian
+Category: Суп
+Cuisine: Вегетарыянская
 Rating: 4/5 stars
 Source: Андрэй Захарэвіч
 
@@ -46,7 +46,7 @@ Ingredients
 1 зубок часныку
  соль
  перац
-180 ml ражанка
+180 мл ражанка
  кроп
 
 ---
@@ -70,17 +70,17 @@ Title: Манты
 Yield: 1 мантышніца
 Cooking Time: 50 minutes
 Preparation Time: 1 1/2 hours
-Category: Main Course
-Cuisine: Kyrgyzian
+Category: Галоўная страва
+Cuisine: Кыргызская
 Rating: 5/5 stars
 Source: Нэля Ібрагімава
 
 ---
 Ingredients
 ---
-500 g мука
-500 g мяса
-600 g цыбуля
+500 г мука
+500 г мяса
+600 г цыбуля
 
 ---
 Instructions
@@ -92,7 +92,7 @@ Instructions
 соль ½ сталовай лыжкі. Пасля замесу
 цеста трэба змазаць алеем і пакінуць
 пакуль не будзе гатовы фарш.
-_УВАГА:_ Гэта не пельмені, цеста ні ў
+_УВАГА:__ _Гэта не пельмені, цеста ні ў
 якім разе нельга ахалоджваць. Чакаць
 свайго часу цеста мусіць пры
 звычайнай пакаёвай тэмпературы.
@@ -128,21 +128,21 @@ _УВАГА:_ Гэта не пельмені, цеста ні ў
 мантышніцы. Гатуюцца 45-50 хвілін.
 
 Title: Марозная вясёлка
-Yield: 4 servings
+Yield: 4 порцыі
 Cooking Time: 20 minutes
-Category: Salad
+Category: Салат
 Rating: 4/5 stars
 Source: Андрэй Захарэвіч
 
 ---
 Ingredients
 ---
-330 g Чырвонакачанная капуста
-135 g Парэй (цыбуля)
-315 g Таматы
-60 g Корань салеры
-320 g Смятана
-30 g Нерафініраваны сланечнікавы алей
+330 г Чырвонакачанная капуста
+135 г Парэй (цыбуля)
+315 г Таматы
+60 г Корань салеры
+320 г Смятана
+30 г Нерафініраваны сланечнікавы алей
 
 ---
 Instructions
@@ -161,7 +161,7 @@ Instructions
 Title: Памаранчавая восень
 Cooking Time: 15 minutes
 Preparation Time: 1 minute
-Category: Salad
+Category: Салат
 Rating: 4/5 stars
 Source: Андрэй Захарэвіч
 
@@ -170,7 +170,7 @@ Ingredients
 ---
 1 апельсін
 1/2 яблык гатунку "Рэкорд"
-200-250 g корань салеры
+200-250 г корань салеры
  соевы соус
  алей
 1 цыбуліна крыху драбней за сярэднюю
@@ -199,22 +199,22 @@ Instructions
 і спецыі на ўласны густ.
 
 Title: Сачавічная каша
-Yield: 2 servings
+Yield: 2 порцыі
 Cooking Time: 1/2 hour
 Preparation Time: 10 minutes
-Category: Main Course
-Cuisine: Vegetarian
+Category: Галоўная страва
+Cuisine: Вегетарыянская
 Rating: 5/5 stars
 Source: Алена Захарэвіч
 
 ---
 Ingredients
 ---
-1 c Сачавіца
-2 c вада
+1 шклянка Сачавіца
+2 шклянак вада
  соль
  перац
-1 Tbs раслінны алей
+1 Ст. лыжка раслінны алей
 
 ---
 Instructions
@@ -240,22 +240,22 @@ Instructions
 пад накрыўкай і можна падаваць.
 
 Title: Суп смятанны з цвёрдым сырам
-Yield: 4 servings
+Yield: 4 порцыі
 Cooking Time: 15 minutes
 Preparation Time: 10 minutes
-Category: Soup
-Cuisine: Vegetarian
+Category: Суп
+Cuisine: Вегетарыянская
 Rating: 5/5 stars
 Source: ©В. Піотровякова "Вегетарыянскія стравы", "Полымя", Мінск, 1992
 
 ---
 Ingredients
 ---
-3 c Малако
-1 c Смятана
+3 шклянка Малако
+1 шклянка Смятана
  Соль
-1 tsp Кмін
-100 g Пікантны цвёрды сыр
+1 ч. лыжка Кмін
+100 г Пікантны цвёрды сыр
 
 ---
 Instructions
@@ -270,24 +270,24 @@ Instructions
 прыгатаванымі клёцкамі.
 
 Title: Тырамісу
-Yield: 6 servings
+Yield: 6 порцый
 Cooking Time: 1 hour
 Preparation Time: 6 hours
-Category: Dessert
-Cuisine: Italian
+Category: Дэсерт
+Cuisine: Італьянская
 Rating: 4/5 stars
 Source: Алена Захарэвіч
 
 ---
 Ingredients
 ---
-4-5 tsp кава
-400-450 ml вада
-100 g цукар
-500 g сыр "маскарпонэ"
+4-5 ч. лыжкі кава
+400-450 мл вада
+100 г цукар
+500 г сыр "маскарпонэ"
 18 яйкі перапяліныя
-2-3 Tbs віно/каньяк (optional)
-300 g бісквіты "Savoiardy Ladyfingers"
+2-3 ст. лыжкі віно/каньяк (optional)
+300 г бісквіты "Savoiardy Ladyfingers"
 
 ---
 Instructions

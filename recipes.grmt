@@ -3,7 +3,7 @@
 <gourmetDoc>
 	<recipe id="7">
 		<title>Белы агеньчык</title>
-		<category>Sauce</category>
+		<category>Соўс</category>
 		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>3 days</preptime>
@@ -11,25 +11,25 @@
 		<ingredient-list>
 			<ingredient>
 				<amount>900</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>смятана</item>
 				<key>смятана</key>
 			</ingredient>
 			<ingredient>
 				<amount>90-100</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>часнок</item>
 				<key>часнок</key>
 			</ingredient>
 			<ingredient>
 				<amount>2-3</amount>
-				<unit>Tbs</unit>
+				<unit>Ст. лыжкі</unit>
 				<item>алей</item>
 				<key>алей</key>
 			</ingredient>
 			<ingredient>
 				<amount>4-5</amount>
-				<unit>Tbs</unit>
+				<unit>Ст. лыжак</unit>
 				<item>соевы соус</item>
 				<key>соевы соус</key>
 			</ingredient>
@@ -46,12 +46,12 @@
 	</recipe>
 	<recipe id="13">
 		<title>Летні суп з гародніны на ражанцы</title>
-		<category>Soup</category>
-		<cuisine>Vegetarian</cuisine>
+		<category>Суп</category>
+		<cuisine>Вегетарыянская</cuisine>
 		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>10 minutes</preptime>
-		<yields>1 cups</yields>
+		<yields>1 міска</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>4</amount>
@@ -78,7 +78,7 @@
 			</ingredient>
 			<ingredient>
 				<amount>180</amount>
-				<unit>ml</unit>
+				<unit>мл</unit>
 				<item>ражанка</item>
 				<key>ражанка</key>
 			</ingredient>
@@ -97,8 +97,8 @@
 	</recipe>
 	<recipe id="8">
 		<title>Манты</title>
-		<category>Main Course</category>
-		<cuisine>Kyrgyzian</cuisine>
+		<category>Галоўная страва</category>
+		<cuisine>Кыргызская</cuisine>
 		<source>Нэля Ібрагімава</source>
 		<rating>5/5 stars</rating>
 		<preptime>1 1/2 hours</preptime>
@@ -107,19 +107,19 @@
 		<ingredient-list>
 			<ingredient>
 				<amount>500</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>мука</item>
 				<key>мука</key>
 			</ingredient>
 			<ingredient>
 				<amount>500</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>мяса</item>
 				<key>мяса</key>
 			</ingredient>
 			<ingredient>
 				<amount>600</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>цыбуля</item>
 				<key>цыбуля</key>
 			</ingredient>
@@ -128,7 +128,7 @@
 
 Замешваецца цеста (не надта крутое) на 500 грамаў мукі 1 шклянка вады (250 мл) і соль ½ сталовай лыжкі. Пасля замесу цеста трэба змазаць алеем і пакінуць пакуль не будзе гатовы фарш. 
 
-&amp;lt;u&amp;gt;&amp;lt;b&amp;gt;УВАГА:&amp;lt;/b&amp;gt;&amp;lt;/u&amp;gt;&amp;lt;b&amp;gt; &amp;lt;/b&amp;gt;Гэта не пельмені, цеста ні ў якім разе нельга ахалоджваць. Чакаць свайго часу цеста мусіць пры звычайнай пакаёвай тэмпературы.
+&amp;lt;u&amp;gt;&amp;lt;b&amp;gt;УВАГА:&amp;lt;/b&amp;gt;&amp;lt;/u&amp;gt;&amp;lt;u&amp;gt; &amp;lt;/u&amp;gt;Гэта не пельмені, цеста ні ў якім разе нельга ахалоджваць. Чакаць свайго часу цеста мусіць пры звычайнай пакаёвай тэмпературы.
 
 Фарш лепш за ўсё атрымліваць пакрышыўшы мяса на дробныя кубікі. Але можа быць ужыты і звычайны фарш. Але пажадана, каб мясарубка была выстаўленая на максімальна вялікія кавалкі.
 
@@ -148,45 +148,45 @@
 	</recipe>
 	<recipe id="9">
 		<title>Марозная вясёлка</title>
-		<category>Salad</category>
+		<category>Салат</category>
 		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<cooktime>20 minutes</cooktime>
-		<yields>4 servings</yields>
+		<yields>4 порцыі</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>330</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Чырвонакачанная капуста</item>
 				<key>Чырвонакачанная капуста</key>
 			</ingredient>
 			<ingredient>
 				<amount>135</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Парэй (цыбуля)</item>
 				<key>Парэй (цыбуля)</key>
 			</ingredient>
 			<ingredient>
 				<amount>315</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Таматы</item>
 				<key>Таматы</key>
 			</ingredient>
 			<ingredient>
 				<amount>60</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Корань салеры</item>
 				<key>Корань салеры</key>
 			</ingredient>
 			<ingredient>
 				<amount>320</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Смятана</item>
 				<key>Смятана</key>
 			</ingredient>
 			<ingredient>
 				<amount>30</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Нерафініраваны сланечнікавы алей</item>
 				<key>Нерафініраваны сланечнікавы алей</key>
 			</ingredient>
@@ -199,7 +199,7 @@
 	</recipe>
 	<recipe id="10">
 		<title>Памаранчавая восень</title>
-		<category>Salad</category>
+		<category>Салат</category>
 		<source>Андрэй Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>1 minute</preptime>
@@ -217,7 +217,7 @@
 			</ingredient>
 			<ingredient>
 				<amount>200-250</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>корань салеры</item>
 				<key>корань салеры</key>
 			</ingredient>
@@ -247,23 +247,23 @@
 	</recipe>
 	<recipe id="12">
 		<title>Сачавічная каша</title>
-		<category>Main Course</category>
-		<cuisine>Vegetarian</cuisine>
+		<category>Галоўная страва</category>
+		<cuisine>Вегетарыянская</cuisine>
 		<source>Алена Захарэвіч</source>
 		<rating>5/5 stars</rating>
 		<preptime>10 minutes</preptime>
 		<cooktime>1/2 hour</cooktime>
-		<yields>2 servings</yields>
+		<yields>2 порцыі</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>1</amount>
-				<unit>c</unit>
+				<unit>шклянка</unit>
 				<item>Сачавіца</item>
 				<key>Сачавіца</key>
 			</ingredient>
 			<ingredient>
 				<amount>2</amount>
-				<unit>c</unit>
+				<unit>шклянак</unit>
 				<item>вада</item>
 				<key>вада</key>
 			</ingredient>
@@ -277,7 +277,7 @@
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
-				<unit>Tbs</unit>
+				<unit>Ст. лыжка</unit>
 				<item>раслінны алей</item>
 				<key>раслінны алей</key>
 			</ingredient>
@@ -296,23 +296,23 @@
 	</recipe>
 	<recipe id="6">
 		<title>Суп смятанны з цвёрдым сырам</title>
-		<category>Soup</category>
-		<cuisine>Vegetarian</cuisine>
+		<category>Суп</category>
+		<cuisine>Вегетарыянская</cuisine>
 		<source>©В. Піотровякова &quot;Вегетарыянскія стравы&quot;, &quot;Полымя&quot;, Мінск, 1992</source>
 		<rating>5/5 stars</rating>
 		<preptime>10 minutes</preptime>
 		<cooktime>15 minutes</cooktime>
-		<yields>4 servings</yields>
+		<yields>4 порцыі</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>3</amount>
-				<unit>c</unit>
+				<unit>шклянка</unit>
 				<item>Малако</item>
 				<key>Малако</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
-				<unit>c</unit>
+				<unit>шклянка</unit>
 				<item>Смятана</item>
 				<key>Смятана</key>
 			</ingredient>
@@ -322,13 +322,13 @@
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
-				<unit>tsp</unit>
+				<unit>ч. лыжка</unit>
 				<item>Кмін</item>
 				<key>Кмін</key>
 			</ingredient>
 			<ingredient>
 				<amount>100</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>Пікантны цвёрды сыр</item>
 				<key>Пікантны цвёрды сыр</key>
 			</ingredient>
@@ -337,35 +337,35 @@
 	</recipe>
 	<recipe id="11">
 		<title>Тырамісу</title>
-		<category>Dessert</category>
-		<cuisine>Italian</cuisine>
+		<category>Дэсерт</category>
+		<cuisine>Італьянская</cuisine>
 		<source>Алена Захарэвіч</source>
 		<rating>4/5 stars</rating>
 		<preptime>6 hours</preptime>
 		<cooktime>1 hour</cooktime>
-		<yields>6 servings</yields>
+		<yields>6 порцый</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>4-5</amount>
-				<unit>tsp</unit>
+				<unit>ч. лыжкі</unit>
 				<item>кава</item>
 				<key>кава</key>
 			</ingredient>
 			<ingredient>
 				<amount>400-450</amount>
-				<unit>ml</unit>
+				<unit>мл</unit>
 				<item>вада</item>
 				<key>вада</key>
 			</ingredient>
 			<ingredient>
 				<amount>100</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>цукар</item>
 				<key>цукар</key>
 			</ingredient>
 			<ingredient>
 				<amount>500</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>сыр &quot;маскарпонэ&quot;</item>
 				<key>сыр &quot;маскарпонэ&quot;</key>
 			</ingredient>
@@ -376,13 +376,13 @@
 			</ingredient>
 			<ingredient optional="yes">
 				<amount>2-3</amount>
-				<unit>Tbs</unit>
+				<unit>ст. лыжкі</unit>
 				<item>віно/каньяк</item>
 				<key>віно/каньяк</key>
 			</ingredient>
 			<ingredient>
 				<amount>300</amount>
-				<unit>g</unit>
+				<unit>г</unit>
 				<item>бісквіты &quot;Savoiardy Ladyfingers&quot;</item>
 				<key>бісквіты &quot;Savoiardy Ladyfingers&quot;</key>
 			</ingredient>
