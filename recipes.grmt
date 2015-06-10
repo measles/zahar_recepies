@@ -245,6 +245,61 @@
 
 Перамяшаць, дадаць алей (лепш аліўкавы, але і рапсавы ці сланечнікавы могуць быць ужытыя) соль і спецыі на ўласны густ.</instructions>
 	</recipe>
+	<recipe id="14">
+		<title>Салат з авакада і кансерваванымі таматамі</title>
+		<category>Салат</category>
+		<source>Андрэй Захарэвіч</source>
+		<rating>5/5 stars</rating>
+		<cooktime>10 minutes</cooktime>
+		<yields>5 порцый</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<item>авакада</item>
+				<key>авакада</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<item>бляшанка рэзаных таматаў ва ўласным соку (400 грамаў)</item>
+				<key>бляшанка рэзаных таматаў ва ўласным соку (400 грамаў)</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<item>сярэднія агуркі</item>
+				<key>сярэднія агуркі</key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<item>бляшанка чорных маслінаў (400 грамаў)</item>
+				<key>бляшанка чорных маслінаў (400 грамаў)</key>
+			</ingredient>
+			<ingredient>
+				<item>соль</item>
+				<key>соль</key>
+			</ingredient>
+			<ingredient>
+				<item>перац</item>
+				<key>перац</key>
+			</ingredient>
+			<ingredient>
+				<item>спецыі</item>
+				<key>спецыі</key>
+			</ingredient>
+			<ingredient>
+				<item>алей</item>
+				<key>алей</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>Авакада разрэзаць уздоўж, павярнуць паловы адну адносна адной. Дастаць костку. Пачысціць паловы ад жосткай &quot;скуры&quot;. Потым нарэзаць тонкімі лустачкамі уздоўж і потым дробна пакрышыць.
+
+Парэзаць агуркі на чвэрцькольцы. 
+
+Зліць расол з маслінаў. Самі масліны парэзаць на буйныя кольцы.
+
+Скласці нарэзаныя інгрыдыенты ў місу, дадаць памідоры разам з сокам. Пасаліць, папярчыць. Дадаць спецыі на ўласны густ. Заправіць алеем і вымяшаць.
+
+Смачна есці!</instructions>
+	</recipe>
 	<recipe id="12">
 		<title>Сачавічная каша</title>
 		<category>Галоўная страва</category>
