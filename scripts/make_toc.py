@@ -59,7 +59,9 @@ if __name__ == "__main__":
         path = urllib.parse.quote(key)
         readme_toc.append(f"- [{key}](./{path})\n")
         for recipe_name, file_name in toc_data[key]:
-            readme_toc.append(f"  - [{recipe_name}]({path}/{file_name})\n")
+            recipe_name.replace("[", "\\" + "[")
+            recipe_name.replace("]", "\\" +"]")
+            readme_toc.append(f"  - [{recipe_name}]({path}/{urllib.parse.quote(file_name)})\n")
 
     readme.extend(readme_toc)
 
