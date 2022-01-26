@@ -55,14 +55,18 @@ if __name__ == "__main__":
     toc_data = get_toc_data()
     readme = get_readme_content()
     readme_toc = []
+    total_count = 0
     for key in toc_data.keys():
         path = urllib.parse.quote(key)
-        readme_toc.append(f"- [{key}](./{path})\n")
+        section_count = len(toc_data[key])
+        readme_toc.append(f"- [{key}](./{path}) - {section_count}\n")
+        total_count += section_count
         for recipe_name, file_name in toc_data[key]:
             recipe_name.replace("[", "\\" + "[")
             recipe_name.replace("]", "\\" +"]")
             readme_toc.append(f"  - [{recipe_name}]({path}/{urllib.parse.quote(file_name)})\n")
 
+    readme_toc.extend(("\n", f"Агулам рэцэптаў: {total_count}\n"))
     readme.extend(readme_toc)
 
     with open("README.md", "w") as readme_file:
