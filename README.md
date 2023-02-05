@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Рэцэпты Андрэя і Алены Захарэвічаў #
 
 Рэцэпты захоўваюцца ў фармаце markdown як для [Kookbook](https://github.com/KDE/kookbook). Але каб скарыстацца будзе дастаткова захаваць рэцэпты на дыск і проста адкрыць іх якім заўгодна тэкставым рэдактарам. Альбо проста аткрыйце патрэбны раздзел і выбярыце цікавы рэцэпт. Ён адкрыецца проста на Github. Поўны змест ніжэй, пераходзіць можна як адразу да рэцэпта, так і на цікавы раздзел.
@@ -37,4 +39,13 @@
   - [Дыетычны боршч](%D0%A1%D1%83%D0%BF%D1%8B/%D0%94%D1%8B%D0%B5%D1%82%D1%8B%D1%87%D0%BD%D1%8B%20%D0%B1%D0%BE%D1%80%D1%88%D1%87.recipe.md)
 
 Агулам рэцэптаў: 22
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
