@@ -34,26 +34,41 @@ def get_toc_data():
     final_toc = {}
     for key in sections:
         final_toc[key] = toc[key]
+        final_toc[key].sort()
 
     return final_toc
 
 
 def get_readme_content():
-    readme = []
+    head, tail = [], []
+    status = 0
     with open("README.md", "r") as readme_file:
         for line in readme_file.readlines():
-            readme.append(line)
+            if status == 0:
+                head.append(line)
+                if line == "## Змест ##\n":
+                    status = 1
+            elif status == 1:
+                if line == "---\n":
+                    tail.append(line)
+                    status = 2
+            else:
+                tail.append(line)
 
             if line == "## Змест ##\n":
-                return readme
+                status = 1
 
-    raise IOError("There was no TOC in file")
+    if head and tail:
+        return (head, tail)
+    else:
+        raise IOError("There was no TOC in file")
 
 
 
 if __name__ == "__main__":
     toc_data = get_toc_data()
-    readme = get_readme_content()
+    head, tail = get_readme_content()
+    readme = head.copy()
     readme_toc = []
     total_count = 0
     for key in toc_data.keys():
@@ -66,8 +81,9 @@ if __name__ == "__main__":
             recipe_name.replace("]", "\\" +"]")
             readme_toc.append(f"  - [{recipe_name}]({path}/{urllib.parse.quote(file_name)})\n")
 
-    readme_toc.extend(("\n", f"Агулам рэцэптаў: {total_count}\n"))
+    readme_toc.extend(("\n", f"Агулам рэцэптаў: {total_count}\n\n"))
     readme.extend(readme_toc)
+    readme.extend(tail)
 
     with open("README.md", "w") as readme_file:
         readme_file.writelines(readme)
