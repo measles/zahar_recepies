@@ -41,8 +41,21 @@ def get_toc_data():
     return final_toc
 
 
-def get_toc():
-    toc_data = get_toc_data()
+def save_section_toc(toc_data):
+    for section_name in toc_data.keys():
+        with open(f"{section_name}{os.sep}README.md", "w") as toc_file:
+            print(f"# {section_name} #\n\n", file=toc_file)
+            print(f" [..](..)\n", file=toc_file)
+            
+            for recipe_name, file_name in toc_data[section_name]:
+                print(f"  - [{recipe_name}]({section_name}/{urllib.parse.quote(file_name)})\n", file=toc_file)
+                
+            print("\n", f"Агулам рэцэптаў: {len(toc_data[section_name])}\n\n", file=toc_file)
+    
+    
+
+
+def build_toc(toc_data):
     readme_toc = []
     total_count = 0
     for key in toc_data.keys():
@@ -79,8 +92,9 @@ if __name__ == "__main__":
     toc_data = get_toc_data()
     head, tail = get_readme_content()
     readme = head.copy()
-    readme.extend(get_toc())
+    readme.extend(build_toc(toc_data))
     readme.extend(tail)
+    save_section_toc(toc_data)
 
     with open(os.path.join(ROOT_FOLDER, "README.md"), "w") as readme_file:
         readme_file.writelines(readme)
