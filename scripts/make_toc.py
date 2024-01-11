@@ -45,14 +45,14 @@ def save_section_toc(toc_data):
     for section_name in toc_data.keys():
         with open(f"{section_name}{os.sep}README.md", "w") as toc_file:
             print(f"# {section_name} #\n\n", file=toc_file)
-            print(f" [..](..)\n", file=toc_file)
+            print(f"  - [..](..)\n", file=toc_file)
             
+            section_title = urllib.parse.quote(section_name)
             for recipe_name, file_name in toc_data[section_name]:
-                print(f"  - [{recipe_name}]({section_name}/{urllib.parse.quote(file_name)})\n", file=toc_file)
+                file_name = urllib.parse.quote(file_name)
+                print(f"  - [{recipe_name}](./{file_name})\n", file=toc_file)
                 
             print("\n", f"Агулам рэцэптаў: {len(toc_data[section_name])}\n\n", file=toc_file)
-    
-    
 
 
 def build_toc(toc_data):
