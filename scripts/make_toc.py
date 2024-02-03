@@ -7,16 +7,15 @@ import urllib.parse
 ROOT_FOLDER = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 
-def get_toc_data():
+def get_toc_data() -> dict:
     toc = {}
 
-    for path, dirs, files in os.walk(ROOT_FOLDER):
+    for path, _, files in os.walk(ROOT_FOLDER):
         recipe_name = None
-        secion = None
+        section = path.replace(ROOT_FOLDER + os.sep, "")
         for file_name in files:
             if re.search('.+\.recipe\.md$', file_name):
-
-                section = path.replace(ROOT_FOLDER + os.sep, "")
+                
                 with open(os.path.join(path, file_name)) as source_file:
                     for line in source_file.readlines():
                         if "# " in line:
@@ -41,13 +40,12 @@ def get_toc_data():
     return final_toc
 
 
-def save_section_toc(toc_data):
+def save_section_tocs(toc_data: dict) -> None:
     for section_name in toc_data.keys():
         with open(f"{section_name}{os.sep}README.md", "w") as toc_file:
             print(f"# {section_name} #\n\n", file=toc_file)
             print(f"  - [..](..)\n", file=toc_file)
             
-            section_title = urllib.parse.quote(section_name)
             for recipe_name, file_name in toc_data[section_name]:
                 file_name = urllib.parse.quote(file_name)
                 print(f"  - [{recipe_name}](./{file_name})\n", file=toc_file)
@@ -55,7 +53,7 @@ def save_section_toc(toc_data):
             print("\n", f"Агулам рэцэптаў: {len(toc_data[section_name])}\n\n", file=toc_file)
 
 
-def build_toc(toc_data):
+def build_toc(toc_data: dict) -> list:
     readme_toc = []
     total_count = 0
     for key in toc_data.keys():
@@ -73,7 +71,7 @@ def build_toc(toc_data):
 
 
 
-def get_readme_content():
+def get_readme_content() -> tuple[list, list]:
     head, tail = [], []
     with open(os.path.join(ROOT_FOLDER, "README.md"), "r") as readme_file:
         file_content = readme_file.readlines()
@@ -94,7 +92,7 @@ if __name__ == "__main__":
     readme = head.copy()
     readme.extend(build_toc(toc_data))
     readme.extend(tail)
-    save_section_toc(toc_data)
+    save_section_tocs(toc_data)
 
     with open(os.path.join(ROOT_FOLDER, "README.md"), "w") as readme_file:
         readme_file.writelines(readme)
